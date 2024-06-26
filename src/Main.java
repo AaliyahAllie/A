@@ -9,5 +9,7 @@ public class Main {
         //COMMENT
 
         //THIS IS A CODE CHECK
+
+        System.out.print("HELLO");
     }
 }
