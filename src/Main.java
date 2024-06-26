@@ -7,5 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         //COMMENT
+
+        //THIS IS A CODE CHECK
     }
 }
